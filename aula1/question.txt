@@ -1,0 +1,34 @@
+1) Cite algumas características da Linguagem PYTHON.
+Interpretada - O código criado com o Python não é compilado;
+De script - Com o Python podemos criar scripts para automatizar diversas tarefas repetitivas;
+Orientada a objetos - O Python nos permite criar programas utilizando um dos paradigmas mais utilizados no mercado, a orientação a objetos;
+De tipagem dinâmica - As variáveis no Python podem armazenar qualquer tipo de dados, independente do seu valor atual.
+
+2) Cite algumas IDEs que são usadas para trabalhara com a Linguagem PYTHON.
+vscode, jupyter notebook, pycharm, eclipse e spyder
+
+3) Diferencie variável x constante.
+o valor de uma constante é sempre o mesmo enquanto o de uma variavel varia.
+
+4) Cite os tipos de dados primitivos da Linguagem PYTHON.
+inteiro, float, string, booleano, tipo ocmplexo
+
+5) Quais são as regras de nomenclatura de variável?
+não usar espaço, nem "-", nem começar uma palavra com numero. Se precisar dar espaço use substitua por letra maiuscula ou "_"
+
+6) Quais são os nomes dos tipos de operadores existentes na linguagem PYTHON?
+Operadores aritméticos, Operadores de atribuição, Operadores de comparação, Operadores lógicos, Operadores de identidade, Operadores de associação
+
+7) Escreva o comando de entrada de dados usado na Linguagem PYTHON.
+input("")
+
+8) Escreva o comando de saída de dados usado na Linguagem PYTHON.
+print()
+
+9) O que usamos para fazer comentários sobre o código dentro de um programa em PYTHON?
+Para que serve os comentários?
+# comentario ou """ comentario """
+para explicarmos o parte do codigo
+
+10) O que o sinal de + faz nas expressões literais?
+iterações
