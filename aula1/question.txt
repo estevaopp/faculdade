@@ -32,3 +32,32 @@ para explicarmos o parte do codigo
 
 10) O que o sinal de + faz nas expressões literais?
 iterações
+
+Resolva os exercícios abaixo usando a IDE do VS Code ou outra para executar os
+algoritmos em Linguagem PYTHON.
+11) Construir um algoritmo para ler 3 valores reais, calcular e imprimir a média desses valores.
+12) Escreva um algoritmo para determinar o consumo médio de um automóvel sendo que será
+fornecida via teclado a distância total percorrida pelo automóvel e o total de combustível gasto.
+13) Faça um programa para ler 2 números inteiros, e apresente o quociente e o resto da divisão
+entre eles.
+14) Faça um algoritmo onde deverá ser informado a base e a altura de um triângulo. O algoritmo
+deverá exibir o valor da área.
+15) Muitos países estão passando a usar o sistema métrico. Preparar um algoritmo para executar
+a conversão de Celsius para Fahrenheit.
+A fórmula de conversão é: F= (9*C+160) / 5, sendo F a temperatura em Fahrenheit e C a
+temperatura em Celsius.
+16) Leia 2 valores para as variáveis A e B, efetuar a troca dos valores de forma que a variável A
+passe a possuir o valor da variável B, e que a variável B passe a possuir o valor da variável A.
+Apresentar os valores trocados pelas variáveis.
+17) Faça um programa para calcular e apresentar o volume de uma lata de óleo, utilizando a
+fórmula volume = 3.14159 ∗ raio ∗ raio ∗ altura. Identifique na fórmula os valores de entrada de
+dados e leia-os via teclado.
+18) Você irá fazer uma viagem internacional e precisa levar seu dinheiro em dólares. Elabore um
+algoritmo para calcular e apresentar o valor da conversão de real (R$) para dólar (US$). O
+algoritmo deverá solicitar o valor da cotação do dólar e quantos Reais(R$) você tem para
+converter em dólar. Ao final mostre a quantidade de dólares que você irá levar para a viagem.
+19) Escrever um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas
+efetuadas por ele no mês (em dinheiro). Sabendo que este vendedor ganha 15% de comissão
+sobre suas vendas efetuadas, informar ao final do programa o seu nome, o salário fixo e salário
+no final do mês.
+20) Crie um programa onde você define o objetivo que ele tem que executar.
