@@ -31,7 +31,7 @@ Para que serve os comentários?
 para explicarmos o parte do codigo
 
 10) O que o sinal de + faz nas expressões literais?
-iterações
+concatenação
 
 Resolva os exercícios abaixo usando a IDE do VS Code ou outra para executar os
 algoritmos em Linguagem PYTHON.
