@@ -9,4 +9,4 @@ combustivel = float(input("Escreva o combustivel gasto em litro: "))
 
 consumo_medio = distance/combustivel
 
-print(f"consumo médio igual {consumo_medio}kg/L")
+print(f"consumo médio igual {consumo_medio:.2f}kg/L")
